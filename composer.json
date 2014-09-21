@@ -10,6 +10,7 @@
     "require": {
         "symfony/dom-crawler": "2.4.9",
         "symfony/css-selector": "2.4.9",
-        "php-curl-class/php-curl-class": "2.1.0"
+        "php-curl-class/php-curl-class": "2.1.0",
+        "parse/php-sdk": "1.0.*"
     }
 }

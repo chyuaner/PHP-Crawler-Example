@@ -1,0 +1,14 @@
+{
+    "name": "chyuaner/php-crawler-example",
+    "description": "簡單的PHP爬蟲",
+    "authors": [
+        {
+            "name": "Yuan Chiu",
+            "email": "chyuaner@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/dom-crawler": "2.4.9",
+        "symfony/css-selector": "2.4.9"
+    }
+}
